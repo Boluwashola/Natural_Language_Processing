@@ -1,2 +1,5 @@
 nltk
 ipykernel
+numpy
+matplotlib
+seaborn
