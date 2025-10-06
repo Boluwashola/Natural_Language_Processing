@@ -5,4 +5,5 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-gensim
+# gensim
+beautifulsoup4
